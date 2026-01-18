@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "download_url": "https://www.spigotmc.org/resources/salaires-1-16-5-1-21-10.125728/",
+  "changelog": [
+    "✅ Système de salaire entièrement fonctionnel",
+    "✅ Économie interne intégrée (pas besoin de Vault)",
+    "✅ Commandes /salaire et paiements automatiques",
+    "✅ Configuration simple avec grades personnalisables",
+    "✅ Interface utilisateur améliorée avec messages colorés",
+    "✅ Système de boosts horaires et hebdomadaires",
+    "✅ Vérificateur de mises à jour intégré",
+    "✅ Compatible 1.16.5 à 1.21"
+  ],
+  "release_date": "2024-01-15",
+  "minecraft_versions": ["1.16.5", "1.17", "1.18", "1.19", "1.20", "1.21"],
+  "author": "noxuwt",
+  "website": "https://www.spigotmc.org/resources/salaires-1-16-5-1-21-10.125728/",
+  "support": "https://github.com/noxuwt/salaires/issues"
+}
